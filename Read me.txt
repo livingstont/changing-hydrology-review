@@ -1,0 +1,21 @@
+Changing Hydrology Review Database Files
+
+citations.csv - Study identifying number and citation.
+
+location.csv - Study locations, approximated/reported Gauge number, latitude, longitude, study area, major drainage area.
+
+methods.csv - GCM or RCM, emission scenario, downscaling method, historical/future time period, hydrologic model.
+
+#Recorded changes in precipitation and temperature by different time periods:
+
+cvar-ann.csv - Annual climate variables.
+cvar-seas.csv - Seasonal climate variables.
+cvar-mth.csv - Monthly climate variables.
+cvar-ims.csv - Range in climate variables across various methodologies, recorded as reported (min/max).
+
+#Recorded changes in hydrologic variables by different time periods:
+
+hvar-ann.csv - Annual hydrologic variables.
+hvar-seas.csv - Seasonal hydrologic variables.
+hvar-mth.csv - Monthly hydrologic variables.
+hvar-ims.csv - Range in hydrologic variables across various methodologies, recorded as reported (min/max).
